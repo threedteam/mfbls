@@ -26,6 +26,6 @@ keras 2.2.4
 
 http://ufldl.stanford.edu/housenumbers/
 
-### CIFAR-10 & CIFAR-100
+### CIFAR-10 and CIFAR-100
 
 http://www.cs.toronto.edu/~kriz/cifar.html
